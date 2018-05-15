@@ -1,0 +1,184 @@
+a:hover{
+	color: #DF1C3E;
+}
+
+
+/*button */
+
+.btn-main{
+	border: 1px solid #DF1C3E;
+}
+.btn-main:hover{
+	background: #DF1C3E;
+	-webkit-box-shadow: 0px 0px 0px 3px #DF1C3E;
+	box-shadow: 0px 0px 0px 3px #DF1C3E;
+}
+
+/*nav bar*/
+.on.navbar-default .navbar-brand{
+	background: #DF1C3E;
+}
+
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover ,
+.navbar-default .navbar-nav > li > a.active{
+	/*background-color: #DF1C3E;*/
+	color: #DF1C3E !important;
+}
+.slider-content a:hover {
+	background: #DF1C3E;
+	border: 1px solid#DF1C3E;
+	color: #fff;
+}
+
+.carousel-control.left i:hover,
+.carousel-control.right i:hover{
+	background: #DF1C3E;
+	border-color: #DF1C3E;
+}
+.barrier-carousel-controller.portfolio-control .left,.barrier-carousel-controller.portfolio-control .right{
+	background: #DF1C3E;
+	border-color: #DF1C3E;
+	color: #fff;
+	opacity: .8;
+}
+
+.barrier-carousel-controller.portfolio-control .left:hover,.barrier-carousel-controller.portfolio-control .right:hover{
+	opacity: 1;
+}
+
+
+/*profile section
+=====================================*/
+
+.pro-desc h5{
+	color: #DF1C3E;
+}
+
+.socail-list a:hover i{
+	color: #DF1C3E;
+	border: 1px solid#DF1C3E;
+}
+
+
+.resume-single:hover{
+	border-color: #DF1C3E;
+}
+.year{
+	background:#DF1C3E
+}
+.versity{
+	color: #DF1C3E;
+}
+
+.grade:hover{
+	color: #DF1C3E;
+	border: 1px solid#DF1C3E;
+}
+label.danger{
+	background: #DF1C3E;
+}
+
+/*panel
+=====================*/
+.panel-default.panel-exp{
+	border: 1px solid#888;
+}
+
+h4.panel-title a:after {
+    /*background: none repeat scroll 0% 0% #DF1C3E;*/
+}
+
+
+/*SERVICE 
+============================================*/
+.icon-box .icon{
+	color: #DF1C3E;
+}
+
+
+/*	PORTFOLIO ISOTOPE
+====================================*/
+
+.barrier-carousel-controller .left:hover,
+.barrier-carousel-controller .right:hover,
+.owl-controls .owl-prev:hover, 
+.owl-controls .owl-next:hover{
+	background: #DF1C3E;
+	border-color: #DF1C3E;
+}
+
+/*FEATURE section
+=========================================*/
+.feature-desc h4{
+	color: #DF1C3E;
+}
+
+.feature-icon i:hover{
+	background: #DF1C3E;
+	-webkit-box-shadow: 0px 0px 0px 3px #DF1C3E;
+	box-shadow: 0px 0px 0px 3px #DF1C3E;
+}
+
+#feature-tab  .nav-tabs > li.active > a .feature-icon i{
+	background: #DF1C3E;
+	box-shadow: 0px 0px 0px 4px #DF1C3E;
+}
+
+#feature-tab  .nav-tabs > li.active > a{
+	border-color: #CF4F4B;
+	color: #CF4F4B;
+}
+
+
+
+/*BLOG SECTion
+==============================*/
+.blog-desc .blog-title{
+	color: #DF1C3E;
+}
+.blog-meta span i.fa-comments{
+	color: #DF1C3E;
+}
+
+
+/*CONTACT section
+====================================*/
+.form-control:hover, .form-control:focus{
+	border-color: #DF1C3E;
+}
+
+
+/*TEAM section
+==============================*/
+.member-overlay{
+	background: #DF1C3E;
+}
+#client .header-desc .line{
+	background: #DF1C3E;
+}
+
+.color-overlay{
+	background: #DF1C3E;
+}
+
+/*Process
+================*/
+.single-process i.big {
+    color: #DF1C3E;
+}
+.facts-wrap-num{
+    color: #DF1C3E;
+}  
+
+
+/*PRICING
+==========================*/
+.panel-pricing:hover .panel-heading{
+	background: #DF1C3E;
+}
+.panel-pricing:hover .panel-footer {
+	background: #DF1C3E;
+}
+.panel-pricing .panel-body.featured{
+	background: #DF1C3E;
+}

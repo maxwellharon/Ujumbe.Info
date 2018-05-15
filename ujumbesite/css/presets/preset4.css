@@ -1,0 +1,184 @@
+a:hover{
+	color: #EAAC27;
+}
+
+
+/*button */
+
+.btn-main{
+	border: 1px solid #EAAC27;
+}
+.btn-main:hover{
+	background: #EAAC27;
+	-webkit-box-shadow: 0px 0px 0px 3px #EAAC27;
+	box-shadow: 0px 0px 0px 3px #EAAC27;
+}
+
+/*nav bar*/
+.on.navbar-default .navbar-brand{
+	background: #EAAC27;
+}
+
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover ,
+.navbar-default .navbar-nav > li > a.active{
+	/*background-color: #EAAC27;*/
+	color: #EAAC27 !important;
+}
+.slider-content a:hover {
+	background: #EAAC27;
+	border: 1px solid#EAAC27;
+	color: #fff;
+}
+
+.carousel-control.left i:hover,
+.carousel-control.right i:hover{
+	background: #EAAC27;
+	border-color: #EAAC27;
+}
+.barrier-carousel-controller.portfolio-control .left,.barrier-carousel-controller.portfolio-control .right{
+	background: #EAAC27;
+	border-color: #EAAC27;
+	color: #fff;
+	opacity: .8;
+}
+
+.barrier-carousel-controller.portfolio-control .left:hover,.barrier-carousel-controller.portfolio-control .right:hover{
+	opacity: 1;
+}
+
+
+/*profile section
+=====================================*/
+
+.pro-desc h5{
+	color: #EAAC27;
+}
+
+.socail-list a:hover i{
+	color: #EAAC27;
+	border: 1px solid#EAAC27;
+}
+
+
+.resume-single:hover{
+	border-color: #EAAC27;
+}
+.year{
+	background:#EAAC27
+}
+.versity{
+	color: #EAAC27;
+}
+
+.grade:hover{
+	color: #EAAC27;
+	border: 1px solid#EAAC27;
+}
+label.danger{
+	background: #EAAC27;
+}
+
+/*panel
+=====================*/
+.panel-default.panel-exp{
+	border: 1px solid#888;
+}
+
+h4.panel-title a:after {
+    /*background: none repeat scroll 0% 0% #EAAC27;*/
+}
+
+
+/*SERVICE 
+============================================*/
+.icon-box .icon{
+	color: #EAAC27;
+}
+
+
+/*	PORTFOLIO ISOTOPE
+====================================*/
+
+.barrier-carousel-controller .left:hover,
+.barrier-carousel-controller .right:hover,
+.owl-controls .owl-prev:hover, 
+.owl-controls .owl-next:hover{
+	background: #EAAC27;
+	border-color: #EAAC27;
+}
+
+/*FEATURE section
+=========================================*/
+.feature-desc h4{
+	color: #EAAC27;
+}
+
+.feature-icon i:hover{
+	background: #EAAC27;
+	-webkit-box-shadow: 0px 0px 0px 3px #EAAC27;
+	box-shadow: 0px 0px 0px 3px #EAAC27;
+}
+
+#feature-tab  .nav-tabs > li.active > a .feature-icon i{
+	background: #EAAC27;
+	box-shadow: 0px 0px 0px 4px #EAAC27;
+}
+
+#feature-tab  .nav-tabs > li.active > a{
+	border-color: #CF4F4B;
+	color: #CF4F4B;
+}
+
+
+
+/*BLOG SECTion
+==============================*/
+.blog-desc .blog-title{
+	color: #EAAC27;
+}
+.blog-meta span i.fa-comments{
+	color: #EAAC27;
+}
+
+
+/*CONTACT section
+====================================*/
+.form-control:hover, .form-control:focus{
+	border-color: #EAAC27;
+}
+
+
+/*TEAM section
+==============================*/
+.member-overlay{
+	background: #EAAC27;
+}
+#client .header-desc .line{
+	background: #EAAC27;
+}
+
+.color-overlay{
+	background: #EAAC27;
+}
+
+/*Process
+================*/
+.single-process i.big {
+    color: #EAAC27;
+}
+.facts-wrap-num{
+    color: #EAAC27;
+}  
+
+
+/*PRICING
+==========================*/
+.panel-pricing:hover .panel-heading{
+	background: #EAAC27;
+}
+.panel-pricing:hover .panel-footer {
+	background: #EAAC27;
+}
+.panel-pricing .panel-body.featured{
+	background: #EAAC27;
+}
